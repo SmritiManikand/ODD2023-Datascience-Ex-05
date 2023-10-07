@@ -112,3 +112,5 @@ df5
 
 
 ## Result
+
+Thus the Feature Generation and Feature Scaling process is applied to the given data set.
