@@ -113,21 +113,26 @@ df5
 
 <img width="227" alt="s1" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/18a8d393-b550-458b-bab0-d6cf55932690">
 
+## Ordinal Encoder
 
 <img width="244" alt="s2" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/101020c0-8719-40f2-82b2-4443d0668e47">
 
+## Label Encoder
 
 <img width="236" alt="s3" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/5f88c1dc-dea0-4422-9775-8ec6080c4725">
 
+## OneHot Encoder
 
 <img width="323" alt="s4" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/0902332c-c6aa-420c-ba80-0c38f1f4864b">
 
+## Binary Encoder
 
 <img width="478" alt="s5" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/09dc9080-88aa-40d2-9dd6-cecd585db521">
 
 
 <img width="869" alt="s6" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/3e395a3a-ee96-4bec-937d-62f5ae9378fe">
 
+## Target Encoder
 
 <img width="503" alt="s7" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/18f6aba1-425b-4745-ae23-e862410de244">
 
@@ -143,18 +148,23 @@ df5
 
 <img width="871" alt="s11" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/8c8bf289-c949-4090-9950-1db120e43e2f">
 
+## Standard Scaker
 
 <img width="235" alt="s12" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/1d7b5296-bbe1-43a0-a25a-75522c6805fb">
 
+## MinMax Scaler
 
 <img width="233" alt="s13" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/770245fa-8d3c-4ebf-ad10-e33c203e6d3f">
 
+## Normalizer
 
 <img width="248" alt="s14" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/8ff79bc1-9d2e-4a84-bebe-15f70e402d5f">
 
+## MaxAbs Scaler
 
 <img width="233" alt="s15" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/9d376c40-ae43-4daa-b6b0-4011e2c3a2d5">
 
+## Robust Scaler
 
 <img width="261" alt="s16" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/fac1b4af-710a-4be7-aaa6-a6e1dcb6204a">
 
