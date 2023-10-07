@@ -126,13 +126,15 @@ df5
 
 <img width="323" alt="s4" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/0902332c-c6aa-420c-ba80-0c38f1f4864b">
 
+## Dummies
 
 <img width="478" alt="s5" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/09dc9080-88aa-40d2-9dd6-cecd585db521">
 
-## Binary Encoder
+## Category Encoders
 
 <img width="869" alt="s6" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/3e395a3a-ee96-4bec-937d-62f5ae9378fe">
 
+## Binary Encoder
 
 <img width="503" alt="s7" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/18f6aba1-425b-4745-ae23-e862410de244">
 
@@ -140,14 +142,15 @@ df5
 
 <img width="401" alt="s8" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/7890cb6f-a16e-47d3-905b-e8b9f4b59965">
 
-
 ## Scaling Data
 
 <img width="203" alt="s9" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/08a80680-3e33-4d68-a6bd-5503887e3613">
 
+## dropna
 
 <img width="220" alt="s10" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/8b115616-bc1a-485c-b0da-780d059b4663">
 
+## max_vals
 
 <img width="871" alt="s11" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-05/assets/113674204/8c8bf289-c949-4090-9950-1db120e43e2f">
 
